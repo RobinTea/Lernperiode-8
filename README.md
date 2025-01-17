@@ -20,6 +20,11 @@ Das System kann die angegebene Datei nicht finden.
 - [ ] Benutzer-Input: Benutzer soll eine Zahl eingeben. Programm gibt einen Fehler aus, wenn er einen String eingibt.
 - [ ] FizzBuzz C++
 
+
+```
+Hello C++ World from VS Code and the C++ extension!
+```
+
 🫵 Code hochladen
 🫵 Zusammenfassung schreiben
 
