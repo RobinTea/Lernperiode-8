@@ -10,14 +10,14 @@ Robin Taing
 🤷
 
 # 17.01.2025
-- [ ] Mein C++-Programm startet nicht; das möchte ich beheben. Folgender Fehler:
+- [x] Mein C++-Programm startet nicht; das möchte ich beheben. Folgender Fehler:
 ```
 ; about to start a child process: ""C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" "program.cpp""
 CreateProcess() failed with error code 2:
 Das System kann die angegebene Datei nicht finden.
 ```
 
-- [ ] Benutzer-Input: Benutzer soll eine Zahl eingeben. Programm gibt einen Fehler aus, wenn er einen String eingibt.
+- [x] Benutzer-Input: Benutzer soll eine Zahl eingeben. Programm gibt einen Fehler aus, wenn er einen String eingibt.
 - [ ] FizzBuzz C++
 
 
@@ -25,7 +25,6 @@ Das System kann die angegebene Datei nicht finden.
 Hello C++ World from VS Code and the C++ extension!
 ```
 
-🫵 Code hochladen
 🫵 Zusammenfassung schreiben
 
 # 24.01.2025
