@@ -1,3 +1,4 @@
+//Code wurde von https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites abgeschrieben
 #include <iostream>
 #include <vector>
 #include <string>
