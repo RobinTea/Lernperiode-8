@@ -17,16 +17,22 @@ CreateProcess() failed with error code 2:
 Das System kann die angegebene Datei nicht finden.
 ```
 
-- [x] Benutzer-Input: Benutzer soll eine Zahl eingeben. Programm gibt einen Fehler aus, wenn er einen String eingibt.
+- [x] Benutzer-Input: Benutzer soll eine Zahl eingeben.
 - [ ] FizzBuzz C++
 
-
+Als ich versuchte, ein Plugin für C++ mit Notepad++ zu installieren, gab es einen Fehler aus (g++ war nicht installiert). Ich wechselte zu Visual Studio Code, um besser dokumentierten Anweisungen folgen zu können, und es funktionierte.
 ```
 Hello C++ World from VS Code and the C++ extension!
 ```
-
-🫵 Zusammenfassung schreiben
+Ich habe mit diesem Tutorial auf dieser Website angefangen. 
+<br>
+https://www.w3schools.com/cpp/default.asp
+<br>
+Und ich habe meine ersten Codezeilen geschrieben (Ordner mit Datum 17.01).
 
 # 24.01.2025
-
+- [ ] FizzBuzz C++
+- [ ] Passwortgenerator
+- [ ] Stopuhr
+- [ ] To-Do Liste
 
