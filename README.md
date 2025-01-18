@@ -4,6 +4,7 @@ Robin Taing
 
 (Weihnachtsferien) 06.01.2025 - 31.1.2025
 
+In dieser Lernperiode lerne ich C++. Ich richte mir eine Entwicklungsumgebung mit Notepad++ ein und schreibe meine ersten Skripte.
 
 # 10.01.2025
 
@@ -21,6 +22,9 @@ Das System kann die angegebene Datei nicht finden.
 - [ ] FizzBuzz C++
 
 Als ich versuchte, ein Plugin für C++ mit Notepad++ zu installieren, gab es einen Fehler aus (g++ war nicht installiert). Ich wechselte zu Visual Studio Code, um besser dokumentierten Anweisungen folgen zu können, und es funktionierte.
+
+![Screenshot 2025-01-17 145351](https://github.com/user-attachments/assets/2645d74e-ed0b-4958-b9e9-29296a7086fc)
+
 ```
 Hello C++ World from VS Code and the C++ extension!
 ```
