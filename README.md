@@ -35,7 +35,7 @@ https://www.w3schools.com/cpp/default.asp
 Und ich habe meine ersten Codezeilen geschrieben (Ordner mit Datum 17.01).
 
 # 24.01.2025
-- [ ] FizzBuzz C++
+- [x] FizzBuzz C++ (Fizz = 3 Buzz = 4)
 - [ ] Passwortgenerator
 - [ ] Stopuhr
 - [ ] To-Do Liste
